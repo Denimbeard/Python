@@ -54,7 +54,7 @@ def test_greedy():
     ([things(Chicken, 110, 85), things(Pizza, 100, 60), things(Fries, 90, 55),
       things(Burger, 80, 40), things(Rice, 70, 70), things(Coca Cola, 60, 40),
       things(Milk, 60, 70)], 570.0)
-    """
+"""    
 
 
 if __name__ == "__main__":
